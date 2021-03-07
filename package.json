@@ -10,7 +10,6 @@
     "gh-pages": "^0.12.0",
     "react-scripts": "1.0.17"
   },
-  "homepage": "http://aisensiy.github.io/react-survey",
   "dependencies": {
     "axios": "^0.18.1",
     "bootstrap": "^3.4.1",
